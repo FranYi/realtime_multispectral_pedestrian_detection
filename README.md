@@ -1,4 +1,3 @@
-# real_time_multispectral_pedestrian_detection
 Results for the paper "Box-level segmentation supervised deep neural networks for accurate and real-time multispectral pedestrian detection." ISPRS Journal of Photogrammetry and Remote Sensing (2019)
 
 Unzip "GT_Reasonable.zip", "HMFFN320.zip", and "HMFFN640.zip"
