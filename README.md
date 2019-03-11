@@ -18,4 +18,4 @@ If you find the results helpful for your research, please cite our paper:
 
 If you have questions or comments, please contact
 
-Dayan Guan (e-mail: 11725001@zju.edu.cn) Yanpeng Cao (e-mail: caoyp@zju.edu.cn)
+Dayan Guan (e-mail: 11725001@zju.edu.cn), Yanpeng Cao (e-mail: caoyp@zju.edu.cn)
